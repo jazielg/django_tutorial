@@ -1,0 +1,5 @@
+# Banco de dados SQlite3
+db.sqlite3
+
+# Cache do python
+__pycache__/
